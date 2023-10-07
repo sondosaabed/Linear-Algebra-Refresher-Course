@@ -25,10 +25,37 @@ class Vector(object):
         """
         return 'Vector: {}'.format(self.coordinates)
     
-    def __eq__(self, v):
+    def __eq__(self, vector):
         """
             This function is used to perform equality 
             Return:
                 If the coordinates are equal returns true
         """
-        return self.coordinates == v.coordinates
+        return self.coordinates == vector.coordinates
+    
+    def sum(self, vector):
+        """
+            This function is used to perform the sum of two vectors:
+            Args:
+            (vector): the intend to sum vector
+            Return:
+            (sum): return the sum answer
+        """
+    
+    def minus(self, vector):
+        """
+            This function is used to perform the minus of two vectors:
+            Args:
+            (vector): the intend to minus vector
+            Return:
+            (minus): return the minus answer
+        """
+    
+    def scaler_multiplication(self, scaler):
+        """
+            This function is used to perform the scaler multiplication of a vector:
+            Args:
+            (scaler): the intend to multiply with a scaler
+            Return:
+            (scaler_multiplication): return the answer of scaler multiplication
+        """
