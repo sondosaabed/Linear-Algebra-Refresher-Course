@@ -3,4 +3,4 @@ In this course I am learning linear algebra by doing. I am coding my own library
 This is part of my Data Scince Path Preprearation
 
 ## Lessons
-![image](https://github.com/sondosaabed/Linear-Algebra-Refresher-Course/assets/65151701/2e9445a2-8abd-4a4f-a334-4f1604a4cd36)
+![image](https://github.com/sondosaabed/Linear-Algebra-Refresher-Course/assets/65151701/43d5aca9-0e70-4859-b53f-fbbd69421d26)
