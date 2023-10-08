@@ -76,3 +76,41 @@ class Vector(object):
             Return:
             (normalized_vector): returns the normalized vector
         """
+
+    def dot(self, v):
+        """
+            This function is used to find the dot product of two vectors
+            Args:
+            (v): the target vecor
+            Return:
+            the answer of the dot product.
+        """
+
+    def angle(self, v):
+        """
+            This function is used to find the angle between two vectors
+            Args:
+            (v): the second vector
+            Returns:
+            The angle between two vectors.
+        """
+
+    def is_orthogonal_to(self, v):
+        """
+        
+        """
+    
+    def is_parallel_to(self, v):
+        """
+        
+        """
+
+    def component_parallel_to(self, basis):
+        """
+        
+        """
+        
+    def component_orthogonal_to(self, basis):
+        """
+        
+        """
