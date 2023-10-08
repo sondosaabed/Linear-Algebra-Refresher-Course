@@ -59,3 +59,20 @@ class Vector(object):
             Return:
             (scaler_multiplication): return the answer of scaler multiplication
         """
+
+    def magnitude(self):
+        """
+            This function is used to get the magnitude of a vector
+            Return:
+            (magnitude): returns a value of the vector's magnitude
+        """
+
+
+    def normalize(self, magnitude):
+        """
+            This function is used to get the normalized vector of this
+            Args:
+            (magnitude): the calculated magnitude of the vector using magnitude() function
+            Return:
+            (normalized_vector): returns the normalized vector
+        """
