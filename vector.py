@@ -109,8 +109,13 @@ class Vector(object):
         """
         
         """
-        
+
     def component_orthogonal_to(self, basis):
+        """
+        
+        """
+
+    def cross(self, v):
         """
         
         """
